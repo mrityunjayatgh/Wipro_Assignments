@@ -1,7 +1,7 @@
 //8. Write a program to count vowels and consonants in a given string.
 // Use conditional statements and the switch operator for checking vowel/consonant conditions.
 
-
+package Day_1;
 import java.util.Scanner;
 
 public class VowelAndConsonantCounter {

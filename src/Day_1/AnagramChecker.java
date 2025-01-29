@@ -1,7 +1,7 @@
 //2. Write a program to check if two strings are anagrams of each other.
 // Use arrays to count character occurrences and conditional operators for comparisons.
 
-
+package Day_1;
 import java.util.Arrays;
 
 public class AnagramChecker {

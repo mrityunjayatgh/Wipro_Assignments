@@ -1,7 +1,7 @@
 // 9.Write a program to find the frequency of each element in an array.
 // Use nested loops with conditional operators to count unique occurrences.
 
-
+package Day_1;
 import java.util.Scanner;
 
 public class FrequencyOfElements {

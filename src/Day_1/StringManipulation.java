@@ -1,6 +1,7 @@
 //1. Write a program to count the frequency of each character in a given string,
 // ignoring case sensitivity. Use conditional statements to exclude special characters.
 
+package Day_1;
 
     public class StringManipulation {
         public static void main(String[] args) {

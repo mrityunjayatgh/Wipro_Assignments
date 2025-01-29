@@ -1,3 +1,8 @@
+//Write a program to find the maximum sum of a contiguous subarray in a given array.
+// Use conditional operators to update the maximum sum dynamically.
+
+
+package Day_1;
 
 public class SubarraySum {
     public static void main(String[] args) {
